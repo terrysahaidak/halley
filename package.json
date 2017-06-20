@@ -1,5 +1,5 @@
 {
-  "name": "halley",
+  "name": "react-native-halley",
   "description": "A bayeux client for modern browsers and node. Forked from Faye",
   "author": "Andrew Newdigate <andrew@gitter.im>",
   "keywords": [
